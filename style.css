@@ -1,0 +1,122 @@
+header{
+    padding: 0;
+}
+
+
+body {
+    background-image: url("quadro_negro.jpg");
+    background-position: center;
+    background-size: cover;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Source Serif Pro', serif;
+  }
+  
+h1{
+      color:white;
+      padding: 2px;
+      text-align: center;
+      font-family: 'Source Serif Pro', serif;
+      font-size: 50px;
+}
+  h2{
+    color:white;
+    text-align: center;
+    font-family: 'Source Serif Pro', serif;
+    
+}
+h3{
+    color:white;
+    text-align: center;
+    font-family: 'Source Serif Pro', serif;
+    font-size: 15px;
+}
+  .jogo-container {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+  }
+  
+  .forca {
+    fill: transparent;
+    stroke: #fff;
+    stroke-width: 8px;
+    stroke-linecap: round;
+  }
+  
+  .forca-parte {
+    display: none;
+  }
+  
+  .letras-erradas-container {
+    font-size: 32px;
+  }
+  
+  .letras-erradas-container span {
+    margin: 0 2px;
+    font-family: 'Source Serif Pro', serif;
+    color:white;
+  }
+  
+  .palavra-secreta-container {
+    font-size: 45px;
+  }
+  
+  .aviso-palavra-repetida {
+    background-color: white;
+    border-radius: 10px 10px 0 0;
+    padding: 15px 20px;
+    position: absolute;
+    bottom: -55px;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .aviso-palavra-repetida p {
+    margin: 0;
+  }
+  
+  .aviso-palavra-repetida.show {
+    transform: translateY(-50px);
+  }
+  
+  .palavra-secreta-container span {
+    margin: 0 5px;
+    font-family: 'Source Serif Pro', serif;
+    color:white;
+  }
+  
+  .popup-container {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: none;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .popup {
+    background: rgba(183, 175, 175, 0.2);
+    border-radius: 5px;
+    box-shadow: 0 15px 10px 3px rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .popup button {
+    cursor: pointer;
+    background-color: #fff;
+    border: 0;
+    margin-top: 20px;
+    padding: 12px 20px;
+    font-size: 16px;
+  }
+  
+footer {
+    color:white;
+    font-family: 'Source Serif Pro', serif;    
+    font-size: 1rem;
+  
+   
+}
