@@ -43,7 +43,7 @@ Ensina alguns propósitos e os passos de forma mais divertida e motivacional - m
 
 O objetivo deste jogo é o de adivinhar qual a palavra que está oculta. É uma das técnicas simples, das quais inspirei-me no livro ficcional o Homem de Giz.
 
-![livro.JPG](url:livro.JPG)
+![livro.JPG](url:[livro.JPG](https://github.com/anaisateodoro/challenges-oracle-one-02))
 
 A informação inicial é que o usuário (jogador) dispõe é a do número de letras que compõem a palavra, estando estas letras representadas por traços no espaço da tela.
 
