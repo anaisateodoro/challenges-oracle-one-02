@@ -98,7 +98,7 @@ Além de incluir os efeitos sonoros de tal desafio.
 
 A missão de concluir o jogo da forca foi consolidada com sucesso!
 
-![acertou.JPG](https://github.com/anaisateodoro/challenges-oracle-one-02))
+![acertou](https://user-images.githubusercontent.com/70113922/173249871-483c9f63-c236-4023-be6e-408d9900838f.JPG)
 
 Valeu Alura + programa ORACLE ONE por oportunizar a realização desta desafio Até o próxima desafio!
 
