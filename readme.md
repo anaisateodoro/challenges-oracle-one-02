@@ -68,7 +68,7 @@ A informação inicial é que o usuário (jogador) dispõe é a do número de le
 ## 4. Considerações gerais
 
 - Este desafio foi resolvido com a apoio de interface gráfica baseada no livro o Homem de Giz.
-![tela_jogo_forca.JPG](https://github.com/anaisateodoro/challenges-oracle-one-02))
+![tela_jogo_forca](https://user-images.githubusercontent.com/70113922/173249932-d0d197f7-9550-4b8e-b85b-d64a0f5ce853.JPG)
 
 ## 5. Requisitos do desafio
 - Deve funcionar só com letras maiúsculas;
