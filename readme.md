@@ -102,6 +102,9 @@ A missão de concluir o jogo da forca foi consolidada com sucesso!
 
 Valeu Alura + programa ORACLE ONE por oportunizar a realização desta desafio Até o próxima desafio!
 
+[https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1644516322badge.png](url)
+
+
 ## 8. Links úteis
 
 [Alura - Jogo da forca - Alura challenges oracle one](https://www.alura.com.br/)
@@ -109,7 +112,6 @@ Valeu Alura + programa ORACLE ONE por oportunizar a realização desta desafio A
 [Trello - Ferramenta para organizar as etapas do desafio e movimentação do painel de gerenciamento de requisitos do desafio](https://trello.com/invite/b/LlXgf65g/4aed3741b017d5894e784b85493bf767/desafio-02-jogodaforcaalurachallengesoracle)
 
 ---
-![badge-one-oracle-next-education-desafio-02](https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1644516322badge.png)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
