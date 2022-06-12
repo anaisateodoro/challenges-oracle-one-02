@@ -102,8 +102,7 @@ A missão de concluir o jogo da forca foi consolidada com sucesso!
 
 Valeu Alura + programa ORACLE ONE por oportunizar a realização desta desafio Até o próxima desafio!
 
-[https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1644516322badge.png](url)
-
+![badge](https://user-images.githubusercontent.com/70113922/173250772-f9efff2e-a6c1-4c31-ba41-1780be89b3d5.png)
 
 ## 8. Links úteis
 
