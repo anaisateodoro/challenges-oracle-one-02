@@ -19,7 +19,7 @@ Nestas semanas 3 e 4 do Curso de Desenvolvimento Web Full Stack, aperfeiçoei na
 
 Confesso que o grau de dificuldade deste desafio foi maior do que o anterior. 
 
-Ainda bem, que o programa ONE - Oracle Next Education, oferece simultaneamente cursos de Soft Skils para proporcionar no ritmo destes desafios e estudos das trilhas com planejamento, otimização e agilidade. Incentivando-nos a trilhar os estudos com mais eficácia.  
+Ainda bem, que o programa ONE - Oracle Next Education, oferece simultaneamente cursos de Soft Skills para proporcionar no ritmo destes desafios e estudos das trilhas com planejamento, otimização e agilidade. Incentivando-nos a trilhar os estudos com mais eficácia.  
 
 Num destes cursos que estudei, pude compreender a importância de colocar em prática o comportamento proativo, afim de antecipar os problemas que podem acontecer e agindo antes de que eles pudessem acontecer. 
 
